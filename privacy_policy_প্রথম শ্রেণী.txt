@@ -1,0 +1,39 @@
+Privacy Policy
+
+Effective Date: 01/12/2024
+
+প্রথম শ্রেণী “the App” is committed to protecting your privacy. This Privacy Policy outlines how we collect, use, and protect your information when you use our digital book app for children aged 5-6 years old.
+
+Information We Collect
+The App does not require users to create an account or provide personal information to use its features.
+
+Automatically Collected Information
+We may automatically collect the following information through third-party tools such as Google AdMob:
+
+Device Information: Including device type, operating system, unique device identifiers, and app usage data.
+Ad Performance Data: Information about your interactions with advertisements displayed in the App.
+Firebase Data
+All content served in the App is hosted on Firebase. Firebase may collect aggregated and anonymized usage data as per its Privacy Policy.
+
+How We Use the Collected Information
+We use the information collected to:
+
+Display and optimize ads.
+Improve the functionality and performance of the App.
+Ensure compliance with legal obligations.
+Third-Party Services
+The App uses the following third-party services, which may collect data as outlined in their privacy policies:
+
+Google AdMob: For serving advertisements. AdMob may use cookies and similar technologies to personalize ads and measure their performance. Learn more in the Google Privacy Policy.
+Firebase: For hosting and serving app data.
+Data Sharing
+We do not sell or share your personal data with third parties except for the purposes described above.
+
+Children's Privacy
+The App is designed for children aged 5-6 years old. We comply with the Children’s Online Privacy Protection Act (COPPA) and other relevant regulations. We do not knowingly collect personal information from children.
+
+Changes to This Privacy Policy
+We may update this Privacy Policy from time to time. Any changes will be posted within the App, and the updated policy will include the date of revision.
+
+Contact Us
+If you have any questions or concerns about this Privacy Policy, please contact us at: asadouzzaman@gmail.com
