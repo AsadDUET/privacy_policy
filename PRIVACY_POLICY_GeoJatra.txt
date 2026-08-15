@@ -1,0 +1,55 @@
+PRIVACY POLICY
+Last Updated: August 14, 2026
+
+This Privacy Policy describes the policies and procedures of the developers of GeoJatra ("we", "us", or "our") on the collection, use, and disclosure of your information when you use the GeoJatra mobile application (the "App") and tells you about your privacy rights and how the law protects you.
+
+We use your data to provide and improve the App. By using the App, you agree to the collection and use of information in accordance with this Privacy Policy.
+
+1. INFORMATION COLLECTION AND USE
+
+Our primary goal is to provide a safe, simple, and educational offline experience. 
+
+1.1 Personal Data
+GeoJatra does NOT collect, store, or transmit any Personally Identifiable Information (PII) from its users. You are not required to register, create an account, or log in to use the App. We do not collect your name, email address, phone number, physical address, or any other contact details.
+
+1.2 Local Storage (Offline Data)
+To provide features such as lesson completion tracking, XP rewards, streaks, sandbox drawing preferences, and localization settings, the App utilizes local storage (such as SharedPreferences) on your device. 
+- All progress data (e.g., lessons completed, quiz scores, XP transactions) is stored strictly on your device.
+- We do not host or run servers that store your progress.
+- If you delete the App or clear its cache/data from your device settings, your progress and configuration data will be permanently lost.
+
+1.3 Third-Party Services and Advertisements
+To support the ongoing development of GeoJatra, we display advertisements in the App using third-party services. These third-party services may collect, use, and process information in accordance with their own privacy policies.
+
+We use the following third-party provider:
+- Google AdMob (Google Mobile Ads SDK)
+  AdMob collects information such as your device's IP address, mobile advertising identifiers (such as the Android Advertising ID), device manufacturer and model, language settings, and operating system version. This data is used to deliver, personalize, and measure the performance of advertisements.
+  - Link to Google's Privacy Policy: https://policies.google.com/privacy
+  - Link to Google's Partners Policy: https://policies.google.com/technologies/partner-sites
+
+2. COOKIES AND TRACKING TECHNOLOGIES
+
+As an offline-first app, GeoJatra does not use cookies directly. However, the third-party advertising SDK (Google AdMob) may use tracking technologies, device identifiers, or web beacons to customize ads and detect fraud. You can control personalized advertising on your device via your Android device settings (e.g., Settings > Google > Ads > Opt out of Ads Personalization or Reset advertising ID).
+
+3. CHILDREN'S PRIVACY
+
+GeoJatra is designed to be an educational app suitable for users of all ages, including children. 
+- We do not knowingly collect, request, or solicit personally identifiable information from children under the age of 13.
+- Because we do not collect any personal data, we do not distribute or share any personal information of minor users.
+- The third-party advertising network (Google AdMob) used in the App is configured to comply with children's privacy laws such as COPPA (Children's Online Privacy Protection Act) where applicable, and we take care to tag ad requests appropriately for child-directed treatment if required by local regulations.
+
+If you are a parent or guardian and you believe that your child has provided us with personal data, please contact us at the email address below so that we can take necessary actions.
+
+4. SECURITY OF YOUR DATA
+
+The security of your data is important to us, but remember that no method of transmission over the Internet or method of electronic storage is 100% secure. Since we store all app progress locally on your device and do not transmit personal information to any server, your personal data is secure under your own device's physical and operational security.
+
+5. CHANGES TO THIS PRIVACY POLICY
+
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy within the App or on the App's store page. You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted.
+
+6. CONTACT US
+
+If you have any questions or suggestions about this Privacy Policy, please contact us at:
+
+Email: asadouzzaman@gmail.com
